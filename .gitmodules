@@ -1,0 +1,3 @@
+[submodule "capstone_aelf/vote-contract-frontend"]
+	path = capstone_aelf/vote-contract-frontend
+	url = https://github.com/AElfProject/vote-contract-frontend
